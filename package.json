@@ -1,0 +1,10 @@
+{
+  "name": "jocafa-tui",
+  "version": "0.0.1",
+  "author": "Josh Faul <josh.faul@gmail.com> (jocafa.com)",
+  "description": "Terminal UI toolkit for node console apps",
+  "dependencies": {
+    "keypress": "*",
+    "lodash": "*"
+  }
+}
