@@ -1,4 +1,4 @@
-var TUI = require('lib/TUI');
+var TUI = require('../lib/TUI');
 var t = new TUI();
 t.on('focus', function () {
   t

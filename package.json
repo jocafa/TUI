@@ -3,8 +3,23 @@
   "version": "0.0.1",
   "author": "Josh Faul <josh.faul@gmail.com> (jocafa.com)",
   "description": "Terminal UI toolkit for node console apps",
+  "homepage": "http://jocafa.github.io/TUI",
+  "keywords": [
+    "ansi",
+    "console",
+    "terminal",
+    "ui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jocafa/TUI.git"
+  },
   "dependencies": {
     "keypress": "*",
     "lodash": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
   }
 }
